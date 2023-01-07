@@ -5,6 +5,7 @@
 <a href="#"><img width="100%" height="auto"  src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kundan Kumar Keshri</h1>
+
 <h3 align="center">I'm a passionate Full Stack Developer with a specialization in MERN stack from Ranchi, Jharkhand (India).</h3>
 
 <p align= "center">
@@ -24,7 +25,7 @@
 
 💬 **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
 
-🥅 **2022 Goals :** Learning new things and contribute more
+🥅 **2023 Goals :** Learning new things and contribute more
 
 <!-- 📫 You can reach me at [chat](mailto:absilawat@gmail.com)! -->
 
